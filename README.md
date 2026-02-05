@@ -60,7 +60,7 @@ This hybrid approach (detection + tracking) improves performance and prevents bl
 |----|-------|
 | `q` | Quit application |
 | `+` / `-` | Increase / decrease blur intensity |
-| `[` / `]` | Decrease / increase detection frequency |
+| `*` / `/` | Decrease / increase detection frequency |
 | `p` / `o` | Increase / decrease face padding |
 
 ---
